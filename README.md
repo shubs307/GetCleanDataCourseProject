@@ -1,5 +1,5 @@
-GetCleanDataCourseProject
-=========================
+README
+======
 
 
 ### Requirements
