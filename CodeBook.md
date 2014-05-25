@@ -2,7 +2,6 @@ CodeBook to generate the Tidy Data
 ==================================
 
 
-
 ## Data Used
 #### Data collected from the accelerometers of the Samsung Galaxy S smartphones and available at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 #### Data consists of two sets: Training and Test datasets
